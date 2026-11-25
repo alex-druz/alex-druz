@@ -24,7 +24,7 @@ Small, working projects around one idea: **a mock iGaming wallet API and everyth
 
 | Project | What it shows | Status |
 |---|---|---|
-| `igaming-wallet-mock` | Python mock of a seamless wallet API: auth, bet, win, refund, request signatures, idempotency | 🚧 in progress |
+| [igaming-wallet-mock](https://github.com/alex-druz/igaming-wallet-mock) | Python mock of a seamless wallet API: auth, bet, win, refund, HMAC request signatures, idempotency, timeout simulation | ✅ v1 live |
 | `api-testing-postman` | Postman collection for the mock, run in CI with Newman | 📋 planned |
 | `sql-practice` | iGaming schema and data checks: bets vs balance, duplicate transactions | 📋 planned |
 | `playwright-tests` | API and UI tests in TypeScript | 📋 planned |
