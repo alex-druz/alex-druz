@@ -36,35 +36,35 @@ Small, working projects around one idea: **a mock iGaming wallet API and everyth
 ## 🧰 Tools
 
 **APIs & debugging**
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger%2FOpenAPI-85EA2D?logo=swagger&logoColor=black)
-![DevTools](https://img.shields.io/badge/Chrome_DevTools-4285F4?logo=googlechrome&logoColor=white)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)](https://www.postman.com)
+[![Swagger](https://img.shields.io/badge/Swagger%2FOpenAPI-85EA2D?logo=swagger&logoColor=black)](https://swagger.io)
+[![DevTools](https://img.shields.io/badge/Chrome_DevTools-4285F4?logo=googlechrome&logoColor=white)](https://developer.chrome.com/docs/devtools)
 
 **Logs, monitoring & data**
-![Grafana](https://img.shields.io/badge/Grafana_%2F_Loki-F46800?logo=grafana&logoColor=white)
+[![Grafana](https://img.shields.io/badge/Grafana_%2F_Loki-F46800?logo=grafana&logoColor=white)](https://grafana.com/oss/loki/)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes_(health_checks)-326CE5?logo=kubernetes&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=databricks&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?logo=databricks&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
+[![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=white)](https://www.snowflake.com)
+[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black)](https://www.microsoft.com/power-platform/products/power-bi)
 
 **Process & delivery**
-![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)
-![Confluence](https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=white)
-![TestRail](https://img.shields.io/badge/TestRail-65C179?logoColor=white)
-![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?logo=clickup&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?logo=intellijidea&logoColor=white)
+[![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
+[![Confluence](https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=white)](https://www.atlassian.com/software/confluence)
+[![TestRail](https://img.shields.io/badge/TestRail-65C179?logoColor=white)](https://www.testrail.com)
+[![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?logo=clickup&logoColor=white)](https://clickup.com)
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)](https://git-scm.com)
+[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?logo=intellijidea&logoColor=white)](https://www.jetbrains.com/idea/)
 
 **AI & automation**
-![n8n](https://img.shields.io/badge/n8n-EA4B71?logo=n8n&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-555555)
-![Claude](https://img.shields.io/badge/Claude-D97757?logo=anthropic&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?logo=openai&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+[![n8n](https://img.shields.io/badge/n8n-EA4B71?logo=n8n&logoColor=white)](https://n8n.io)
+[![RAG](https://img.shields.io/badge/RAG-555555)](https://en.wikipedia.org/wiki/Retrieval-augmented_generation)
+[![Claude](https://img.shields.io/badge/Claude-D97757?logo=anthropic&logoColor=white)](https://claude.ai)
+[![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?logo=openai&logoColor=white)](https://chatgpt.com)
+[![Playwright](https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white)](https://playwright.dev)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org)
 
 ## 📚 Currently learning
 
-Python · SQL (joins, window functions) · Playwright with TypeScript · API security (HMAC, OAuth, JWT)
+Python · SQL (joins, window functions) · Playwright with TypeScript · n8n · API security (HMAC, OAuth, JWT)
 
 <!-- Move a tool from here to "Tools" when a repo shows you use it -->
